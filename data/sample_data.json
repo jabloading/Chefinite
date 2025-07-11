@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Birria Bros",
+    "zip": "90001",
+    "top_dishes": ["Birria Tacos", "Quesabirria", "Churro Bites"]
+  },
+  {
+    "name": "Korean Flame",
+    "zip": "90001",
+    "top_dishes": ["Korean Fried Chicken", "Bibimbap", "Kimchi Fries"]
+  },
+  {
+    "name": "Spice Junction",
+    "zip": "90001",
+    "top_dishes": ["Butter Chicken", "Garlic Naan", "Mango Lassi"]
+  },
+  {
+    "name": "Taquero Mucho",
+    "zip": "90001",
+    "top_dishes": ["Birria Tacos", "Street Corn", "Jarritos"]
+  },
+  {
+    "name": "Bao It Up",
+    "zip": "90001",
+    "top_dishes": ["Pork Belly Bao", "Matcha Ice Cream", "Kimchi Fries"]
+  }
+]
